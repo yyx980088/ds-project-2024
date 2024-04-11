@@ -5,7 +5,7 @@ Let's assuming the maximum waiting days of buyer to receive the parcel is 8 days
 
 ![ec2.jpeg](ec2.jpeg)
 
-# 1. probability distribution
+# 1. Probability distribution
 
 
 ```python
